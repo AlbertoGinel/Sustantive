@@ -1,0 +1,15 @@
+[
+
+	{ "name": "Materials", "color": "#90EE90" },
+	{ "name": "Industrials", "color": "#9400D3" },
+	{ "name": "Real Estate", "color": "#20B2AA" },
+	{ "name": "Energy", "color": "#DAA520" },
+	{ "name": "Communication Services", "color": "#7B68EE" },
+	{ "name": "Healthcare", "color": "#BDB76B" },
+	{ "name": "Information Technology", "color": "#7FFF00" },
+	{ "name": "Consumer Staples", "color": "#008080" },
+	{ "name": "Financials", "color": "#F5DEB3" },
+	{ "name": "Utilities", "color": "#FF69B4" },
+	{ "name": "Consumer Discretionary", "color": "#C71585" }
+
+]

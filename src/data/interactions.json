@@ -1,0 +1,747 @@
+[
+  {
+    "sector_id": 3,
+    "name": "Materials",
+    "date": "2019-12-05"
+  },
+  {
+    "sector_id": 6,
+    "name": "Industrials",
+    "date": "2019-12-11"
+  },
+  {
+    "sector_id": 2,
+    "name": "Real Estate",
+    "date": "2020-01-06"
+  },
+  {
+    "sector_id": 2,
+    "name": "Real Estate",
+    "date": "2020-01-06"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-01-06"
+  },
+  {
+    "sector_id": 6,
+    "name": "Industrials",
+    "date": "2020-01-06"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-01-06"
+  },
+  {
+    "sector_id": 2,
+    "name": "Real Estate",
+    "date": "2020-01-07"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-01-07"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-01-07"
+  },
+  {
+    "sector_id": 4,
+    "name": "Communication Services",
+    "date": "2020-01-08"
+  },
+  {
+    "sector_id": 1,
+    "name": "Healthcare",
+    "date": "2020-01-08"
+  },
+  {
+    "sector_id": 2,
+    "name": "Real Estate",
+    "date": "2020-01-09"
+  },
+  {
+    "sector_id": 9,
+    "name": "Information Technology",
+    "date": "2020-01-10"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-01-13"
+  },
+  {
+    "sector_id": 9,
+    "name": "Information Technology",
+    "date": "2020-01-14"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-01-14"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-01-15"
+  },
+  {
+    "sector_id": 7,
+    "name": "Consumer Staples",
+    "date": "2020-01-15"
+  },
+  {
+    "sector_id": 7,
+    "name": "Consumer Staples",
+    "date": "2020-01-15"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-01-15"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-01-16"
+  },
+  {
+    "sector_id": 2,
+    "name": "Real Estate",
+    "date": "2020-01-17"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-01-17"
+  },
+  {
+    "sector_id": 6,
+    "name": "Industrials",
+    "date": "2020-01-20"
+  },
+  {
+    "sector_id": 6,
+    "name": "Industrials",
+    "date": "2020-01-20"
+  },
+  {
+    "sector_id": 3,
+    "name": "Materials",
+    "date": "2020-01-21"
+  },
+  {
+    "sector_id": 6,
+    "name": "Industrials",
+    "date": "2020-01-21"
+  },
+  {
+    "sector_id": 2,
+    "name": "Real Estate",
+    "date": "2020-01-22"
+  },
+  {
+    "sector_id": 2,
+    "name": "Real Estate",
+    "date": "2020-01-22"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-01-22"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-01-22"
+  },
+  {
+    "sector_id": 6,
+    "name": "Industrials",
+    "date": "2020-01-23"
+  },
+  {
+    "sector_id": 9,
+    "name": "Information Technology",
+    "date": "2020-01-23"
+  },
+  {
+    "sector_id": 6,
+    "name": "Industrials",
+    "date": "2020-01-23"
+  },
+  {
+    "sector_id": 6,
+    "name": "Industrials",
+    "date": "2020-01-23"
+  },
+  {
+    "sector_id": 7,
+    "name": "Consumer Staples",
+    "date": "2020-01-23"
+  },
+  {
+    "sector_id": 7,
+    "name": "Consumer Staples",
+    "date": "2020-01-23"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-01-24"
+  },
+  {
+    "sector_id": 3,
+    "name": "Materials",
+    "date": "2020-01-27"
+  },
+  {
+    "sector_id": 6,
+    "name": "Industrials",
+    "date": "2020-01-27"
+  },
+  {
+    "sector_id": 3,
+    "name": "Materials",
+    "date": "2020-01-27"
+  },
+  {
+    "sector_id": 6,
+    "name": "Industrials",
+    "date": "2020-01-27"
+  },
+  {
+    "sector_id": 8,
+    "name": "Financials",
+    "date": "2020-01-27"
+  },
+  {
+    "sector_id": 8,
+    "name": "Financials",
+    "date": "2020-01-27"
+  },
+  {
+    "sector_id": 7,
+    "name": "Consumer Staples",
+    "date": "2020-01-28"
+  },
+  {
+    "sector_id": 9,
+    "name": "Information Technology",
+    "date": "2020-01-28"
+  },
+  {
+    "sector_id": 7,
+    "name": "Consumer Staples",
+    "date": "2020-01-28"
+  },
+  {
+    "sector_id": 11,
+    "name": "Utilities",
+    "date": "2020-01-28"
+  },
+  {
+    "sector_id": 5,
+    "name": "Consumer Discretionary",
+    "date": "2020-01-29"
+  },
+  {
+    "sector_id": 1,
+    "name": "Healthcare",
+    "date": "2020-01-29"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-01-30"
+  },
+  {
+    "sector_id": 2,
+    "name": "Real Estate",
+    "date": "2020-01-30"
+  },
+  {
+    "sector_id": 2,
+    "name": "Real Estate",
+    "date": "2020-01-30"
+  },
+  {
+    "sector_id": 2,
+    "name": "Real Estate",
+    "date": "2020-01-30"
+  },
+  {
+    "sector_id": 3,
+    "name": "Materials",
+    "date": "2020-01-30"
+  },
+  {
+    "sector_id": 2,
+    "name": "Real Estate",
+    "date": "2020-01-31"
+  },
+  {
+    "sector_id": 9,
+    "name": "Information Technology",
+    "date": "2020-01-31"
+  },
+  {
+    "sector_id": 9,
+    "name": "Information Technology",
+    "date": "2020-01-31"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-01-31"
+  },
+  {
+    "sector_id": 1,
+    "name": "Healthcare",
+    "date": "2020-01-31"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-02-03"
+  },
+  {
+    "sector_id": 11,
+    "name": "Utilities",
+    "date": "2020-02-03"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-02-04"
+  },
+  {
+    "sector_id": 6,
+    "name": "Industrials",
+    "date": "2020-02-04"
+  },
+  {
+    "sector_id": 5,
+    "name": "Consumer Discretionary",
+    "date": "2020-02-04"
+  },
+  {
+    "sector_id": 8,
+    "name": "Financials",
+    "date": "2020-02-05"
+  },
+  {
+    "sector_id": 11,
+    "name": "Utilities",
+    "date": "2020-02-05"
+  },
+  {
+    "sector_id": 6,
+    "name": "Industrials",
+    "date": "2020-02-06"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-02-07"
+  },
+  {
+    "sector_id": 7,
+    "name": "Consumer Staples",
+    "date": "2020-02-07"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-02-07"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-02-07"
+  },
+  {
+    "sector_id": 1,
+    "name": "Healthcare",
+    "date": "2020-02-07"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-02-10"
+  },
+  {
+    "sector_id": 3,
+    "name": "Materials",
+    "date": "2020-02-11"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-02-11"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-02-12"
+  },
+  {
+    "sector_id": 2,
+    "name": "Real Estate",
+    "date": "2020-02-12"
+  },
+  {
+    "sector_id": 2,
+    "name": "Real Estate",
+    "date": "2020-02-12"
+  },
+  {
+    "sector_id": 3,
+    "name": "Materials",
+    "date": "2020-02-12"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-02-12"
+  },
+  {
+    "sector_id": 6,
+    "name": "Industrials",
+    "date": "2020-02-12"
+  },
+  {
+    "sector_id": 8,
+    "name": "Financials",
+    "date": "2020-02-13"
+  },
+  {
+    "sector_id": 8,
+    "name": "Financials",
+    "date": "2020-02-13"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-02-13"
+  },
+  {
+    "sector_id": 7,
+    "name": "Consumer Staples",
+    "date": "2020-02-14"
+  },
+  {
+    "sector_id": 5,
+    "name": "Consumer Discretionary",
+    "date": "2020-02-17"
+  },
+  {
+    "sector_id": 2,
+    "name": "Real Estate",
+    "date": "2020-02-18"
+  },
+  {
+    "sector_id": 5,
+    "name": "Consumer Discretionary",
+    "date": "2020-02-18"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-02-19"
+  },
+  {
+    "sector_id": 1,
+    "name": "Healthcare",
+    "date": "2020-02-19"
+  },
+  {
+    "sector_id": 1,
+    "name": "Healthcare",
+    "date": "2020-02-21"
+  },
+  {
+    "sector_id": 1,
+    "name": "Healthcare",
+    "date": "2020-02-21"
+  },
+  {
+    "sector_id": 1,
+    "name": "Healthcare",
+    "date": "2020-02-21"
+  },
+  {
+    "sector_id": 3,
+    "name": "Materials",
+    "date": "2020-02-24"
+  },
+  {
+    "sector_id": 3,
+    "name": "Materials",
+    "date": "2020-02-24"
+  },
+  {
+    "sector_id": 3,
+    "name": "Materials",
+    "date": "2020-02-24"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-02-24"
+  },
+  {
+    "sector_id": 6,
+    "name": "Industrials",
+    "date": "2020-02-25"
+  },
+  {
+    "sector_id": 7,
+    "name": "Consumer Staples",
+    "date": "2020-02-27"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-02-28"
+  },
+  {
+    "sector_id": 6,
+    "name": "Industrials",
+    "date": "2020-03-02"
+  },
+  {
+    "sector_id": 5,
+    "name": "Consumer Discretionary",
+    "date": "2020-03-03"
+  },
+  {
+    "sector_id": 5,
+    "name": "Consumer Discretionary",
+    "date": "2020-03-03"
+  },
+  {
+    "sector_id": 6,
+    "name": "Industrials",
+    "date": "2020-03-03"
+  },
+  {
+    "sector_id": 8,
+    "name": "Financials",
+    "date": "2020-03-05"
+  },
+  {
+    "sector_id": 8,
+    "name": "Financials",
+    "date": "2020-03-05"
+  },
+  {
+    "sector_id": 8,
+    "name": "Financials",
+    "date": "2020-03-05"
+  },
+  {
+    "sector_id": 1,
+    "name": "Healthcare",
+    "date": "2020-03-06"
+  },
+  {
+    "sector_id": 9,
+    "name": "Information Technology",
+    "date": "2020-03-13"
+  },
+  {
+    "sector_id": 11,
+    "name": "Utilities",
+    "date": "2020-03-16"
+  },
+  {
+    "sector_id": 3,
+    "name": "Materials",
+    "date": "2020-03-16"
+  },
+  {
+    "sector_id": 11,
+    "name": "Utilities",
+    "date": "2020-03-16"
+  },
+  {
+    "sector_id": 11,
+    "name": "Utilities",
+    "date": "2020-03-16"
+  },
+  {
+    "sector_id": 11,
+    "name": "Utilities",
+    "date": "2020-03-16"
+  },
+  {
+    "sector_id": 8,
+    "name": "Financials",
+    "date": "2020-03-17"
+  },
+  {
+    "sector_id": 3,
+    "name": "Materials",
+    "date": "2020-03-18"
+  },
+  {
+    "sector_id": 9,
+    "name": "Information Technology",
+    "date": "2020-03-19"
+  },
+  {
+    "sector_id": 3,
+    "name": "Materials",
+    "date": "2020-03-19"
+  },
+  {
+    "sector_id": 9,
+    "name": "Information Technology",
+    "date": "2020-03-19"
+  },
+  {
+    "sector_id": 2,
+    "name": "Real Estate",
+    "date": "2020-03-20"
+  },
+  {
+    "sector_id": 2,
+    "name": "Real Estate",
+    "date": "2020-03-20"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-03-20"
+  },
+  {
+    "sector_id": 5,
+    "name": "Consumer Discretionary",
+    "date": "2020-03-20"
+  },
+  {
+    "sector_id": 3,
+    "name": "Materials",
+    "date": "2020-03-20"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-03-23"
+  },
+  {
+    "sector_id": 5,
+    "name": "Consumer Discretionary",
+    "date": "2020-03-24"
+  },
+  {
+    "sector_id": 2,
+    "name": "Real Estate",
+    "date": "2020-03-25"
+  },
+  {
+    "sector_id": 2,
+    "name": "Real Estate",
+    "date": "2020-03-31"
+  },
+  {
+    "sector_id": 2,
+    "name": "Real Estate",
+    "date": "2020-04-02"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-04-02"
+  },
+  {
+    "sector_id": 11,
+    "name": "Utilities",
+    "date": "2020-04-02"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-04-03"
+  },
+  {
+    "sector_id": 8,
+    "name": "Financials",
+    "date": "2020-04-03"
+  },
+  {
+    "sector_id": 6,
+    "name": "Industrials",
+    "date": "2020-04-03"
+  },
+  {
+    "sector_id": 5,
+    "name": "Consumer Discretionary",
+    "date": "2020-04-06"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-04-08"
+  },
+  {
+    "sector_id": 2,
+    "name": "Real Estate",
+    "date": "2020-04-09"
+  },
+  {
+    "sector_id": 2,
+    "name": "Real Estate",
+    "date": "2020-04-09"
+  },
+  {
+    "sector_id": 4,
+    "name": "Communication Services",
+    "date": "2020-04-09"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-04-14"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-04-15"
+  },
+  {
+    "sector_id": 10,
+    "name": "Energy",
+    "date": "2020-04-20"
+  },
+  {
+    "sector_id": 7,
+    "name": "Consumer Staples",
+    "date": "2020-04-20"
+  },
+  {
+    "sector_id": 3,
+    "name": "Materials",
+    "date": "2020-05-03"
+  },
+  {
+    "sector_id": 3,
+    "name": "Materials",
+    "date": "2020-05-03"
+  },
+  {
+    "sector_id": 7,
+    "name": "Consumer Staples",
+    "date": "2020-05-05"
+  },
+  {
+    "sector_id": 2,
+    "name": "Real Estate",
+    "date": "2020-05-13"
+  }
+ ]
